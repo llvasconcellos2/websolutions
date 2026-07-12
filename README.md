@@ -59,6 +59,13 @@ The portfolio embedded three real projects: Flundi, a community site for an elec
 
 This archive preserves the site exactly as served — the original `.htm` files, embedded images, and the CorelDraw source files used for the site design and a matching business card — kept for historical reference only.
 
+<!-- KEY FEATURES -->
+### Key Features
+
+- **Client work portfolio** — A curated showcase of completed projects — a community site, a browser-based style editor, and a corporate textile site — demonstrated the partnership's range and built credibility with prospective clients.
+- **Direct-contact lead path** — Contact details placed alongside the work gave interested visitors an immediate route to start new business, the core purpose of a freelance marketing site.
+- **Self-produced brand presence** — A cohesive visual identity carried across the site and a matching business card, produced in-house, signaled design capability to prospects before a single brief was discussed.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SCREENSHOTS -->
